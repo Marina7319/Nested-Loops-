@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\multiplying.exe
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\multiplying.deps.json
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\multiplying.runtimeconfig.json
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\multiplying.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\multiplying.dll
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\ref\multiplying.dll
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\bin\Debug\net5.0\multiplying.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.dll
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\ref\multiplying.dll
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\multiplying\obj\Debug\net5.0\multiplying.genruntimeconfig.cache

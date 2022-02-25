@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\MagicNum.exe
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\MagicNum.deps.json
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\MagicNum.runtimeconfig.json
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\MagicNum.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\MagicNum.dll
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\ref\MagicNum.dll
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\bin\Debug\net5.0\MagicNum.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.dll
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\ref\MagicNum.dll
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.genruntimeconfig.cache
+C:\Users\Marina\source\repos\Вложени Цикли\MagicNum\obj\Debug\net5.0\MagicNum.csproj.AssemblyReference.cache

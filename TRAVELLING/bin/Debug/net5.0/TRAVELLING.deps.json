@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TRAVELLING/1.0.0": {
+        "runtime": {
+          "TRAVELLING.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRAVELLING/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\и.exe
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\и.deps.json
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\и.runtimeconfig.json
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\и.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\и.dll
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\ref\и.dll
+C:\Users\Marina\source\repos\Вложени Цикли\и\bin\Debug\net5.0\и.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.dll
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\ref\и.dll
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\и\obj\Debug\net5.0\и.genruntimeconfig.cache

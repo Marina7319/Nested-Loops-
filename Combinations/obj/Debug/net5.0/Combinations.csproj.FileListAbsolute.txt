@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\Combinations.exe
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\Combinations.deps.json
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.json
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\Combinations.dll
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\ref\Combinations.dll
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\bin\Debug\net5.0\Combinations.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.dll
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\ref\Combinations.dll
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\Combinations\obj\Debug\net5.0\Combinations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\TRAVELLING.exe
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\TRAVELLING.deps.json
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\TRAVELLING.runtimeconfig.json
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\TRAVELLING.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\TRAVELLING.dll
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\ref\TRAVELLING.dll
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\bin\Debug\net5.0\TRAVELLING.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.dll
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\ref\TRAVELLING.dll
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.pdb
+C:\Users\Marina\source\repos\Вложени Цикли\TRAVELLING\obj\Debug\net5.0\TRAVELLING.genruntimeconfig.cache
